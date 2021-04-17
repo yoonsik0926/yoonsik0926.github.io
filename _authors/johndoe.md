@@ -1,6 +1,6 @@
 ---
 name: Yoonsik Kim
-username: xplor4r
+username: Siki
 bio: "공부중인 개발자 Siki__ 입니다."
 site: https://www.instagram.com/ssiki__
 avatar: Siki.jpg
